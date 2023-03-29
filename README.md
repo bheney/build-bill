@@ -58,3 +58,12 @@
     * The movement is imperceptably quick, but the sprites appear to flail as they rotate between premoves.
     * It doesn't impact game performance, and if I cared about making this look perfect, I wouldn't be doing it in Scratch.
 
+# Future Improvements
+
+## Points
+* I got a little ambitious with my project proposal. Admitedly, instead of finding something that Scratch could do, I tried to make Scratch do something that I wanted to do. There are no points in this implimentations.
+    * It's not that points would be technically difficult to implement, but it is just one thing I did not give myself time to develop.
+
+## Artwork
+* Graphic design is not my passion.
+* I had a lot of mechanics and interactions to define in this game and artwork took a back seat.
